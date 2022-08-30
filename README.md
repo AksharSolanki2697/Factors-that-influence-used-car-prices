@@ -43,6 +43,31 @@ Based on the initial analysis, following are the attributes available to us in t
 
 ### Data Exploration and Cleaning
 
+1. Count of used cars over the years
 
-### Insights
+  ![image](https://user-images.githubusercontent.com/12669848/187344876-77bdcb0d-bd16-4431-9a1e-03c59f898757.png)
+
+2. Price of used cars over the years
+
+  ![image](https://user-images.githubusercontent.com/12669848/187344976-9a1b2872-2c7c-4a2c-9112-1d61ba084092.png)
+
+3. Odometer Readings of Vehicles over the years
+
+  ![image](https://user-images.githubusercontent.com/12669848/187345017-601f185d-6057-4cf2-8815-7bb490af193c.png)
+
+4. Price of Cars per Manufacturer
+
+  ![image](https://user-images.githubusercontent.com/12669848/187345109-40cd4802-c3b2-4b1a-b955-2b2c5c937f4c.png)
+
+5. Fuel type of used cars and price impact
+
+  ![image](https://user-images.githubusercontent.com/12669848/187345173-be88dc20-c8c3-414e-9f35-8b91b942fd94.png)
+
+
+### Results
+
+![image](https://user-images.githubusercontent.com/12669848/187345233-b225c8b9-08ff-43e3-b395-b033c42314fc.png)
+
+
+
 
